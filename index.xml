@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>A Hugo website</title>
+    <title>Danyang Zhang&#39;s personal website</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Danyang Zhang&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>My name is Danyang Zhang, I go by Jasmine as well. I am originally from Zhengzhou, Henan, China. I am currently a first year Ph.D. student at the Department of Statistics in Iowa State University. I earned my B.S. in China and my M.S. at UT Austin. I enjoyed hiking and traveling in my spare time!</description>
     </item>
     
     <item>
